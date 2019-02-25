@@ -1,1 +1,12 @@
 /* Empty. Add your own CSS if you like */
+
+h3.title{
+    color: black; 
+    font-family: Helvetica Neue;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 5%
+    
+}
+
